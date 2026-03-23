@@ -1,4 +1,4 @@
-# 🚀 Código, Ciberseguridad y Guitarra.
+# Código, Ciberseguridad y Guitarrista.
 
 ### Sobre mí
 ¡Hola! Soy **Alan**, estudiante de Ingeniería en Sistemas. Me apasiona construir sistemas seguros y entender cómo funcionan las redes desde la base.
