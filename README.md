@@ -17,11 +17,14 @@
 
 ### 🌐 Networking & Infrastructure
 - **Cisco Packet Tracer:** Diseño de topologías y configuración de redes.
+- **Protocolos:** Dominio de Subnetting, VLANs y Modelo OSI.
 
 ---
 
 ### 📊 Actividad en el Lab
-![Pacman Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaangGlitch&theme=dracula&area=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlaangGlitch&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de AlaangGlitch" />
+</p>
 
 ---
 
@@ -31,4 +34,3 @@
 <a href="mailto:alaan.glitch@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-> *"Write once, secure everywhere."*
