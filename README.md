@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,linux,docker,git,github,vscode,netbeans)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,linux,docker,git,github,vscode,ubuntu,bash)](https://skillicons.dev)
 
 ---
 
