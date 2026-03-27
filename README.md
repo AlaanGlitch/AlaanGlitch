@@ -23,7 +23,7 @@
 
 ### 📊 Actividad en el Lab
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlaanGlitch&theme=dracula&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="./github-metrics.svg" alt="Métricas de AlaanGlitch" />
 </p>
 
 
