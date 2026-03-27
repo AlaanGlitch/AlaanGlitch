@@ -21,12 +21,6 @@
 
 ---
 
-### 📊 Actividad en el Lab
-<p align="center">
-  <img src="./github-metrics.svg" alt="Métricas de AlaanGlitch" />
-</p>
-
-
 ---
 
 ### Conectemos
