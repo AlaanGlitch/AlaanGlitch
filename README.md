@@ -23,7 +23,7 @@
 
 ### 📊 Actividad en el Lab
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaangGlitch&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de AlaanGlitch" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlaanGlitch&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de AlaanGlitch" />
 </p>
 
 ---
