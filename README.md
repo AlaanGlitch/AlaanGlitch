@@ -19,7 +19,7 @@
 - **Cisco Packet Tracer:** Diseño de topologías y configuración de redes.
 - **Protocolos:** Dominio de Subnetting, VLANs y Modelo OSI.
 
-| Mi actividad de contribución en un juego de Snake |
+| |
 | :---: |
 | ![snake gif](https://raw.githubusercontent.com/AlaanGlitch/AlaanGlitch/output/github-contribution-grid-snake-dark.svg) |
 
