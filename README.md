@@ -23,7 +23,7 @@
 ### 🐍 Contribution Snake
 | Mi actividad de contribución en un juego de Snake |
 | :---: |
-| ![snake gif](https://raw.githubusercontent.com/TU_USUARIO_AQUI/TU_USUARIO_AQUI/output/github-contribution-grid-snake.svg) |
+| ![snake gif](https://raw.githubusercontent.com/AlaanGlitch/AlaanGlitch/output/github-contribution-grid-snake.svg) |
 
 ---
 
